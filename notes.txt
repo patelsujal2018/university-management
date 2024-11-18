@@ -1,0 +1,15 @@
+Completed Tasks
+Admin Side
+- Admin Login
+- University List with search and pagination using Yajra DataTable
+- Booking List with search and pagination using Yajra DataTable
+
+Student Side
+- Student Login
+- University List
+- University Details
+- Course Details
+- Course Booking with Login only
+
+Not Completed Tasks
+- - University List Search with filters
